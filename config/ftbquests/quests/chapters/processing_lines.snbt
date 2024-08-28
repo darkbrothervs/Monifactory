@@ -387,7 +387,7 @@
 		}
 		{
 			dependencies: ["599012DB0B179B3B"]
-			description: ["Seperate your &6Quartz Sand&r into &6Quartzite Dust&r and &6Certus Quartz Dust&r. This is a good renewable source of &6Certus Quartz&r, which you need for &bApplied Energistics 2&r."]
+			description: ["Separate your &6Quartz Sand&r into &6Quartzite Dust&r and &6Certus Quartz Dust&r. This is a good renewable source of &6Certus Quartz&r, which you need for &bApplied Energistics 2&r."]
 			id: "201B129579ACF449"
 			subtitle: "&oThis step requires a Centrifuge at voltage &lLV&r&o or higher.&r"
 			tasks: [
@@ -455,7 +455,7 @@
 		}
 		{
 			dependencies: ["69BFFF8BFB3B3B5C"]
-			description: ["Seperate your &6Glass Dust&r into &6Silicon Dioxide Dust&r. Can be electrolysed into useful resources."]
+			description: ["Separate your &6Glass Dust&r into &6Silicon Dioxide Dust&r. Can be electrolysed into useful resources."]
 			id: "3B8EFDA817243B9F"
 			subtitle: "&oThis step requires a Centrifuge at voltage &lLV&r&o or higher.&r"
 			tasks: [{

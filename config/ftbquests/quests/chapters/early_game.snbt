@@ -1307,7 +1307,7 @@
 				""
 				"When you have large amounts of &6Rutile&r and &6Bauxite&r (probably after you visit the Moon) you can consider using &9Titanium Tetrachloride&r as a catalyst to improve your Polyethylene yields. For now it's not a great idea, as in addition to its Overworld rarity, you need it for &6Titanium&r."
 				""
-				"Form &6Polyethylene Sheets&r using a &3Fluid Solidifier&r and a &aPlate Mold&r for use in crafting electronics components. You'll need both the liquid and the sheets. For &9Polyethylene (PE)&r pipes, you can either pulverise your sheets into dust and use those in the extruder, or solidify &9Polyethylene (PE)&r into &6Polyethylene Bars&r seperately."
+				"Form &6Polyethylene Sheets&r using a &3Fluid Solidifier&r and a &aPlate Mold&r for use in crafting electronics components. You'll need both the liquid and the sheets. For &9Polyethylene (PE)&r pipes, you can either pulverise your sheets into dust and use those in the extruder, or solidify &9Polyethylene (PE)&r into &6Polyethylene Bars&r separately."
 			]
 			id: "417D97D9E3562F45"
 			rewards: [{
